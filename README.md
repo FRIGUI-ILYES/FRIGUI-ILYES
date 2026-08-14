@@ -54,7 +54,7 @@ I build graph-based ML systems for fraud detection, and I'm working my way towar
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=FRIGUI-ILYES&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ilyes's GitHub stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FRIGUI-ILYES&theme=tokyonight&hide_border=true" alt="Ilyes's GitHub streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=FRIGUI-ILYES&theme=tokyonight&hide_border=true" alt="Ilyes's GitHub streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FRIGUI-ILYES&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
 
