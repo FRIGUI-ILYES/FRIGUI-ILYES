@@ -55,6 +55,8 @@ I build graph-based ML systems for fraud detection, and I'm working my way towar
 
 [![Ilyes's GitHub stats](https://github-stats-extended.vercel.app/api?username=FRIGUI-ILYES)](https://github.com/FRIGUI-ILYES)
 
+<img src="https://camo.githubusercontent.com/65cbdb8a5a0e90a16798bd990887e97a751355c206b0be774b8019adc5303a7e/68747470733a2f2f73747265616b2d73746174732e64656d6f6c61622e636f6d2f3f757365723d4652494755492d494c594553267468656d653d746f6b796f6e6967687426686964655f626f726465723d74727565" alt="Ilyes's GitHub streak" height="165"/>
+
 </div>
 
 ### ⚽ Off the clock
