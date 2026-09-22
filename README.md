@@ -12,7 +12,7 @@
 
 I'm a final-year Data Science &amp; Machine Learning Engineering student at ESSAI (Tunis), currently interning at BH Bank where I'm building an anti-money laundering pipeline using Graph Neural Networks (GraphSAGE, GAT, GIN) on a 5.1M-transaction dataset — combining supervised and unsupervised approaches (XGBoost, graph autoencoders) with a strong focus on avoiding data leakage and evaluating properly under extreme class imbalance.
 
-🔭 &nbsp;I'm currently working on **GNN-based fraud detection @ BH Bank**  
+🔭 &nbsp;I'm currently working on **Sementic Retrieval with Text Embeddings**  
 🌱 &nbsp;I'm currently learning **Docker, MLflow, CI/CD (MLOps Bootcamp)**  
 💬 &nbsp;Ask me about **Graph Neural Networks, fraud detection, financial ML**
 
